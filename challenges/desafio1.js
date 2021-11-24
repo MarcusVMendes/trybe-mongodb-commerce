@@ -7,3 +7,4 @@ db.produtos.find(
   {},
   { nome: true, criadoPor: true, _id: false },
 );
+// commit de correçaão, problema com evaluator.
